@@ -26,7 +26,7 @@ export default class HomeScreen extends Component{
       url = "https://rupinwhitehatjr.github.io/dictionary/"+searchKeyword+".json"
     }else{
       //API traduzida (contém 5 palavras: aplicativo, aprendizado, escola, linguagem e professora)
-      url = "https://thiagosaraiva-git.github.io/dictionary-master/"+word+".json"
+      url = "https://thiagosaraiva-git.github.io/dictionary-master/"+searchKeyword+".json"
     }
     
     ///url = "https://rupinwhitehatjr.github.io/dictionary/"+word+".json"
