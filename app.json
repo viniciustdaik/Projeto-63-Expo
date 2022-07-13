@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Dicionário de Bolso",
+    "slug": "snack-0c3e395b-e9c4-4dad-976c-04dba18416f5",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true, 
+      "bundleIdentifier": "com.Teste3.www"
+    },
+    "android": {
+      "package": "com.Teste3.www"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
